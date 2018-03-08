@@ -1,0 +1,16 @@
+.top {
+    border-bottom: solid black 2px;
+    width: 100%;
+}
+.mainbox {
+    border: solid black 2px;
+    background: lightyellow;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightyellow;
+    color: black;
+    text-align: center;
+ }
